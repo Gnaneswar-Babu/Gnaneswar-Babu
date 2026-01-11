@@ -18,7 +18,16 @@ REST APIs, and Angular**, and I focus on writing clean, maintainable code.
 </td>
 <td width="40%">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlvenphdDBkNWFra2QwNjdzMGluZXE3bjhubW1ybXFtODI3MnFtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" width="400"/>
+
+
+
+
+
+<img 
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTlvenphdDBkNWFra2QwNjdzMGluZXE3bjhubW1ybXFtODI3MnFtdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PI3QGKFN6XZUCMMqJm/giphy.gif" 
+  width="420" 
+  align="right" 
+/>
 
 </td>
 </tr>
