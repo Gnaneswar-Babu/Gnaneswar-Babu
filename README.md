@@ -33,7 +33,7 @@ and <b>Angular</b>, focusing on clean, maintainable, production-ready code.
 </ul>
   <br>
   <br>
- 
+   <br>
 <!-- RIGHT SIDE IMAGE -->
 
 <hr>
